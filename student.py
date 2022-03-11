@@ -1,8 +1,10 @@
 ##
-# James Nelson & Neil Lukowski
-# Project 4
-# 4/18/2019
-# Revised 5/3/2019
+# Student
+# 
+# Authors: James Nelson & Neil Lukowski
+# Project: CS150 Project 4
+# Created: 4/18/2019
+# Revised: 5/3/2019
 # This file contains the Student class definition. This class represents an
 # individual student.
 ##
